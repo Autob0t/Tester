@@ -1,29 +1,29 @@
 [submodule "fluxbb"]
     path = fluxbb
-    url = git@github.com:fluxbb/fluxbb.git
+    url = git://github.com/fluxbb/fluxbb.git
     branch = fluxbb-1.5-beta
 
 [submodule "mybb"]
     path = mybb
-    url = git@github.com:mybb/mybb.git
+    url = git://github.com/mybb/mybb.git
     branch = master
 
 [submodule "phpbb"]
     path = phpbb
-    url = git@github.com:phpbb/phpbb.git
+    url = git://github.com/phpbb/phpbb.git
     branch = 3.1.x
 
 [submodule "smf"]
     path = smf
-    url = git@github.com:SimpleMachines/SMF2.1.git
+    url = git://github.com/SimpleMachines/SMF2.1.git
     branch = release-2.1
 
 [submodule "vanilla"]
     path = vanilla
-    url = git@github.com:vanilla/vanilla.git
+    url = git://github.com/vanilla/vanilla.git
     branch = "release/2.2"
 
 [submodule "wordpress"]
     path = wp
-    url = git@github.com:WordPress/WordPress.git
+    url = git://github.com/WordPress/WordPress.git
     branch = 4.3
